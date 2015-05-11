@@ -1,0 +1,19 @@
+{
+  "name": "ExpressApp1",
+  "version": "0.0.0",
+  "description": "ExpressApp1",
+  "main": "app.js",
+  "author": {
+    "name": "hansw",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*",
+    "grunt": "^0.4.5",
+    "grunt-curl": "^1.5.1",
+    "typescript": "^1.0.1",
+    "bluebird": "^2.0.7"
+  }
+}
